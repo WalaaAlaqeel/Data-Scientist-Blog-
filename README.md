@@ -19,7 +19,7 @@ This project is contain the following:
 
 **- Detailed Listings datasets for Boston and Seattle which were collected Dec,4th. Dataset Link: http://insideairbnb.com/get-the-data.html.**
 
-#Results of the analysis
+# Results of the analysis
 
 Results and discussion were published on Medium: **Medium Link**
 
