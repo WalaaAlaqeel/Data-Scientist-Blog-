@@ -22,6 +22,7 @@ This project is contain the following:
 #Results of the analysis
 
 Results and discussion were published on Medium: **Medium Link**
+
 In this project, I dived into the most recent Airbnb Boston and Seattle dataset and found many interesting phenomenom:
 
 **-We gathered the Boston and Seattle Airbnb data, and compare the two dataset.**
