@@ -21,7 +21,7 @@ This project is contain the following:
 
 # Results of the analysis
 
-Results and discussion were published on Medium: **Medium Link**
+Results and discussion were published on Medium: **https://medium.com/@walaalaqeel/boston-vs-seattle-airbnb-homes-7e3d0859f622**
 
 In this project, I dived into the most recent Airbnb Boston and Seattle dataset and found many interesting phenomenom:
 
